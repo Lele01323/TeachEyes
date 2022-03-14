@@ -11,7 +11,7 @@
     <title>Hello, world!! teste</title>
   </head>
   <body>
-    <h1>Hello, world! teste</h1>
+    <h1>Hello, world!</h1>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
