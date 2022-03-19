@@ -1,0 +1,26 @@
+:root {
+    --color01: #E4E5E2;
+    --color02: #5F5D53;
+    --color03: #676866;
+    --color04: #B89358;
+    --color05: #BABAB7;
+    --color06: #454542;
+    --color07: #000000;
+    --color08: #F7E69B;
+
+    --color09: #7F40F5;
+    --color10: #B08AF7;
+}
+
+header {
+    background-color: var(--color10);
+}
+
+footer {
+    background-color: var(--color10);
+}
+
+.sidebar {
+    
+}
+
