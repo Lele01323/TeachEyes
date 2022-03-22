@@ -18,9 +18,32 @@ header {
 
 footer {
     background-color: var(--color10);
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    margin: auto;
+    bottom: 0;
+    padding: 20px;
 }
 
 .sidebar {
-    
+    position: fixed;
+    left: 0;
+    top: 20%;
+    /* height: 100px; */
 }
 
+.sideitem {
+    margin-top: 20px;
+    align-content: start;
+}
+
+.sidebar > span {
+    align-content: center;
+}
+
+.estudos {
+    position:fixed;
+    top: 105px;
+    left: 70%;
+}
