@@ -15,9 +15,9 @@
   <body>
     
   <!-- Arquivo de Header include nao foi--> 
-  <!-- <?php
+  <?php
     include('components/header.php');
-  ?> -->
+  ?>
 
 <div class="text-center" data-new-gr-c-s-check-loaded="14.1009.0" data-gr-ext-installed="">
     
