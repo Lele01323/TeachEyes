@@ -14,40 +14,38 @@
 
   <div class="sidebar d-flex flex-column flex-shrink-0 p-3 " style="width: 280px;">
     <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
-      <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
-      <span class="fs-4">Menu</span>
+      <img src="../img/menu.png" width="40px" height="40px" alt="Ícone de Menu para representar as opções de menu">
+      <span class="fs-4 mx-3">Menu</span>
     </a>
     <hr>
-    <ul class="nav nav-pills flex-column mb-auto">
+    <ul class="sideitem nav nav-pills flex-column mb-auto">
       <li class="nav-item">
-        <a href="#" class="nav-link active" aria-current="page">
-          <svg class="bi me-2" width="16" height="16"><use xlink:href="#home"></use></svg>
+        <a href="#" class="sideitem nav-link link-dark" aria-current="page">
+          <img src="../img/home.png" width="20px" height="20px" alt="ícone de uma casinha">
           Home
         </a>
       </li>
       <li>
-        <a href="#" class="nav-link link-dark">
-          <svg class="bi me-2" width="16" height="16"><use xlink:href="#speedometer2"></use></svg>
+        <a href="#" class="sideitem nav-link link-dark">
+          <img src="../img/dashboard.png" width="20px" height="20px" alt="ícone de um gráfico representando um dashboard">
           Dashboard
         </a>
       </li>
       <li>
-        <a href="#" class="nav-link link-dark">
-          <svg class="bi me-2" width="16" height="16"><use xlink:href="#table"></use></svg>
+        <a href="#" class="sideitem nav-link link-dark">
+          <img src="../img/pilha-de-livros.png" width="20px" height="20px" alt="Ícone de uma pilha de livros representando as matérias e disciplinas cadastradas">
           Matérias
         </a>
       </li>
       <li>
-        <a href="#" class="nav-link link-dark">
-        <img href="../img/pasta.png" height="20px" width="20px">
-        <!-- <a href="https://www.flaticon.com/br/icones-gratis/explorador-de-arquivos" title="explorador de arquivos ícones"></a>   -->
-        <!-- <svg class="bi me-2" width="16" height="16"><use xlink:href="#grid"></use></svg> -->
+        <a href="#" class="sideitem nav-link link-dark">
+          <img src="../img/pasta.png" width="20px" height="20px" alt="Ícone de pastas para representar os arquivos">
           Arquivos
         </a>
       </li>
       <li>
-        <a href="#" class="nav-link link-dark">
-          <svg class="bi me-2" width="16" height="16"><use xlink:href="#people-circle"></use></svg>
+        <a href="#" class="sideitem nav-link link-dark">
+          <img src="../img/agendamento.png" width="20px" height="20px" alt="Ícone de calendário para representar a agenda">
           Agenda
         </a>
       </li>
@@ -80,3 +78,24 @@
     -->
   </body>
 </html>
+
+<!-- Ícone de estudos -->
+<!-- <a href="https://www.flaticon.com/br/icones-gratis/estudo-de-caso" title="estudo de caso ícones">Estudo de caso ícones criados por SBTS2018 - Flaticon</a> -->
+
+<!-- Ícone de Home -->
+<!-- <a href="https://www.flaticon.com/br/icones-gratis/botao-home" title="botão home ícones">Botão home ícones criados por Kiranshastry - Flaticon</a> -->
+
+<!-- ícone de Home 2 -->
+<!-- <a href="https://www.flaticon.com/br/icones-gratis/casa" title="casa ícones">Casa ícones criados por Freepik - Flaticon</a> -->
+
+<!-- ícone de Dashboard -->
+<!-- <a href="https://www.flaticon.com/free-icons/dashboard" title="dashboard icons">Dashboard icons created by Eucalyp - Flaticon</a> -->
+
+<!-- ícone de Matérias -->
+<!-- <a href="https://www.flaticon.com/br/icones-gratis/livros" title="livros ícones">Livros ícones criados por popo2021 - Flaticon</a> -->
+
+<!-- Ícone de Agenda -->
+<!-- <a href="https://www.flaticon.com/br/icones-gratis/cronograma" title="cronograma ícones">Cronograma ícones criados por Flat Icons - Flaticon</a> -->
+
+<!-- Ícone de Menu -->
+<!-- <a href="https://www.flaticon.com/br/icones-gratis/menu-aberto" title="menu aberto ícones">Menu aberto ícones criados por Pixel perfect - Flaticon</a> -->
