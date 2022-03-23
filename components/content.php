@@ -9,31 +9,20 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
-    <title>TeachEyes</title>
   </head>
   <body>
-    
-  <!-- Arquivo de Header -->
-  <?php
-    include('components/header.php');
-  ?>
+    <h2 class="d-flex justify-content-center">
+        Olá, seja bem-vindo ao seu 
+    </h2>
+    <h2 class="d-flex justify-content-center">
+        Organizador de Arquivos Acadêmicos
+    </h2>
 
-  <!-- Arquivo de conteúdos da página -->
-  <?php
-    include('components/content.php');
-  ?>
-
-  <!-- Arquivo de SideBar -->
-  <?php 
-    include('components/sidebar.php');
-  ?>
-
-  <!-- Arquivo de Footer -->
-  <?php
-    include('components/footer.php');
-  ?>
-
-  
+    <div class="d-flex justify-content-center">
+        <div class="col-6">
+            <h2></h2>
+        </div>
+    </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
 

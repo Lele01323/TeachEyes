@@ -39,7 +39,9 @@
       </li>
       <li>
         <a href="#" class="nav-link link-dark">
-          <svg class="bi me-2" width="16" height="16"><use xlink:href="#grid"></use></svg>
+        <img href="../img/pasta.png" height="20px" width="20px">
+        <!-- <a href="https://www.flaticon.com/br/icones-gratis/explorador-de-arquivos" title="explorador de arquivos ícones"></a>   -->
+        <!-- <svg class="bi me-2" width="16" height="16"><use xlink:href="#grid"></use></svg> -->
           Arquivos
         </a>
       </li>
